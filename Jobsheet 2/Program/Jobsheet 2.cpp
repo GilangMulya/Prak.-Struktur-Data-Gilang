@@ -3,36 +3,36 @@
 #include <stdlib.h>
 
 // Mendefinisikan struktur untuk tipe data mahasiswa
-struct Mahasiswa {
-    int NIM;
-    char Nama[50];
+struct Mahasiswa { //Variable struct dengan nama Mahasiswa
+    int NIM; //Variable NIM
+    char Nama[50]; //Variable char Nama Mahasiswa
     char TanggalLahir[15]; // Misalnya "DD-MM-YYYY"
-    float IPK;
+    float IPK; //Variable untuk IPK
 };
 
 // Fungsi untuk input data mahasiswa
 void inputMahasiswa(struct Mahasiswa *mhs) {
-    printf("Masukkan Nama: ");
-    scanf("%[^\n]s", &mhs->Nama);
-    printf("Masukkan NIM: ");
-    scanf(" %d", mhs->NIM);
-    printf("Masukkan Tanggal Lahir (DD-MM-YYYY): ");
-    scanf("%s", mhs->TanggalLahir);
-    printf("Masukkan IPK: ");
-    scanf("%f", &mhs->IPK);
+    printf("Masukkan Nama: "); //Output Nama
+    scanf("%[^\n]s", &mhs->Nama); //Input nama Mahasiswa
+    printf("Masukkan NIM: "); //Output Masukkan NIM
+    scanf(" %d", mhs->NIM); //Input memasukkan NIM
+    printf("Masukkan Tanggal Lahir (DD-MM-YYYY): ");  //Output meminta memasukkan Tanggal lahir
+    scanf("%s", mhs->TanggalLahir); //Input memasukkan tanggal lahir mahasiswa
+    printf("Masukkan IPK: "); //Output meminta memasukkan IPK
+    scanf("%f", &mhs->IPK); //Input memasukkan IPK
 }
 
 // Fungsi untuk menampilkan data mahasiswa
 void tampilkanMahasiswa(struct Mahasiswa mhs) {
-    printf("\nData Mahasiswa:\n");
-    printf("Nama: %s\n", mhs.Nama);
-    printf("NIM: %d\n", mhs.NIM);
-    printf("Nama: %s\n", mhs.Nama);
-    printf("Tanggal Lahir: %s\n", mhs.TanggalLahir);
-    printf("IPK: %.2f\n", mhs.IPK);
+    printf("\nData Mahasiswa:\n"); //Menampilkan data mahasiswa
+    printf("Nama: %s\n", mhs.Nama); //Menampilkan nama mahasiswa
+    printf("NIM: %d\n", mhs.NIM); //menampilkan NIM mahasiswa
+    printf("Nama: %s\n", mhs.Nama); //
+    printf("Tanggal Lahir: %s\n", mhs.TanggalLahir); //Menampilakan Tanggal Lahir
+    printf("IPK: %.2f\n", mhs.IPK); //Menampilkan IPK
 }
 
-int main() {
+int main() { //Fungsi Utama Program
     struct Mahasiswa mhs; // Deklarasi variabel mahasiswa
 
     // Memanggil fungsi inputMahasiswa untuk mengisi data mahasiswa
