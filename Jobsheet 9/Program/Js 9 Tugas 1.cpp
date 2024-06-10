@@ -1,19 +1,20 @@
+//Created by M.Gilang Mulya Putra_23343073
 #include <stdio.h>
 #include <stdlib.h>
 
 // Fungsi untuk Selection Sort
 void selectionSort(int arr[], int n) {
     int i, j, min_idx, temp;
-    for (i = 0; i < n-1; i++) {  // Loop melalui elemen array
+    for (i = 0; i < n-1; i++) {
         // Mencari elemen terkecil dalam array yang tidak terurut
-        min_idx = i;  // Asumsi elemen pertama adalah yang terkecil
-        for (j = i+1; j < n; j++) {  // Loop untuk mencari elemen terkecil
-            if (arr[j] < arr[min_idx]) {  // Jika menemukan elemen yang lebih kecil
-                min_idx = j;  // Update indeks elemen terkecil
+        min_idx = i;
+        for (j = i+1; j < n; j++) {
+            if (arr[j] < arr[min_idx]) {
+                min_idx = j;
             }
         }
         // Menukar elemen terkecil dengan elemen pertama
-        temp = arr[min_idx];  
+        temp = arr[min_idx];
         arr[min_idx] = arr[i];
         arr[i] = temp;
     }
@@ -22,11 +23,11 @@ void selectionSort(int arr[], int n) {
 // Fungsi untuk menggabungkan dua subarray untuk Merge Sort
 void merge(int arr[], int l, int m, int r) {
     int i, j, k;
-    int n1 = m - l + 1;  // Panjang subarray kiri
-    int n2 = r - m;  // Panjang subarray kanan
+    int n1 = m - l + 1;
+    int n2 = r - m;
 
     // Membuat array sementara
-    int L[n1], R[n2];  // Array sementara untuk kiri dan kanan
+    int L[n1], R[n2];
 
     // Menyalin data ke array sementara L[] dan R[]
     for (i = 0; i < n1; i++) {
@@ -37,9 +38,9 @@ void merge(int arr[], int l, int m, int r) {
     }
 
     // Menggabungkan array sementara kembali ke arr[l..r]
-    i = 0;  // Indeks awal subarray kiri
-    j = 0;  // Indeks awal subarray kanan
-    k = l;  // Indeks awal subarray yang digabungkan
+    i = 0;
+    j = 0;
+    k = l;
     while (i < n1 && j < n2) {
         if (L[i] <= R[j]) {
             arr[k] = L[i];
@@ -84,30 +85,31 @@ void mergeSort(int arr[], int l, int r) {
 // Fungsi untuk mencetak array
 void printArray(int arr[], int size) {
     int i;
-    for (i = 0; i < size; i++) {  // Loop melalui elemen array
-        printf("%d ", arr[i]);  // Cetak elemen array
+    for (i = 0; i < size; i++) {
+        printf("%d ", arr[i]);
     }
-    printf("\n");  // Pindah ke baris baru
+    printf("\n");
 }
 
 int main() {
-    int arr1[] = {64, 25, 12, 22, 11};  // Inisialisasi array pertama
-    int arr2[] = {64, 25, 12, 22, 11};  // Inisialisasi array kedua
-    int n1 = sizeof(arr1)/sizeof(arr1[0]);  // Hitung jumlah elemen dalam array pertama
-    int n2 = sizeof(arr2)/sizeof(arr2[0]);  // Hitung jumlah elemen dalam array kedua
+    int arr1[] = {64, 25, 12, 22, 11};
+    int arr2[] = {64, 25, 12, 22, 11};
+    int n1 = sizeof(arr1)/sizeof(arr1[0]);
+    int n2 = sizeof(arr2)/sizeof(arr2[0]);
 
     printf("Array sebelum sorting:\n");
-    printArray(arr1, n1);  // Cetak array sebelum sorting
+    printArray(arr1, n1);
 
     // Menggunakan Selection Sort
-    selectionSort(arr1, n1);  // Sort array pertama dengan Selection Sort
+    selectionSort(arr1, n1);
     printf("\nArray setelah Selection Sort:\n");
-    printArray(arr1, n1);  // Cetak array setelah Selection Sort
+    printArray(arr1, n1);
 
     // Menggunakan Merge Sort
-    mergeSort(arr2, 0, n2 - 1);  // Sort array kedua dengan Merge Sort
+    mergeSort(arr2, 0, n2 - 1);
     printf("\nArray setelah Merge Sort:\n");
-    printArray(arr2, n2);  // Cetak array setelah Merge Sort
+    printArray(arr2, n2);
 
-    return 0;  // Akhiri program
+    return 0;
 }
+
