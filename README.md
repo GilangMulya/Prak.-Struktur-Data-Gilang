@@ -7,7 +7,7 @@ Halo! Nama saya [Nama Anda], seorang pengembang perangkat lunak dengan ketertari
 
 ## Kontak 📬
 - **Email**: mgilangmulyaputra04@gmail.com
-- **GitHub**: [Gilang Mulya](https://github.com/Gilang Mulya)
+- **GitHub**: [Gilang Mulya](https://github.com/GilangMulya)
 
 ---
 
