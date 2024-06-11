@@ -3,7 +3,7 @@
 
 Halo! Nama saya [Nama Anda], seorang pengembang perangkat lunak dengan ketertarikan besar pada pengembangan web, kecerdasan buatan, dan solusi berbasis cloud. Saya memiliki pengalaman dalam berbagai bahasa pemrograman dan teknologi, serta bersemangat untuk belajar dan berbagi pengetahuan.
 
-![Profil](https://static.fanpage.it/wp-content/uploads/sites/27/2020/04/cristiano-ronaldo-real-madrid.jpg)
+**![Profil](https://static.fanpage.it/wp-content/uploads/sites/27/2020/04/cristiano-ronaldo-real-madrid.jpg)**
 
 ## Kontak 📬
 - **Email**: mgilangmulyaputra04@gmail.com
