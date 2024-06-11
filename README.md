@@ -1,7 +1,7 @@
 # Prak.-Struktur-Data-Gilang
 # Tentang Saya 👨‍💻
 
-Halo! Nama saya [Nama Anda], seorang pengembang perangkat lunak dengan ketertarikan besar pada pengembangan web, kecerdasan buatan, dan solusi berbasis cloud. Saya memiliki pengalaman dalam berbagai bahasa pemrograman dan teknologi, serta bersemangat untuk belajar dan berbagi pengetahuan.
+Halo! Nama saya M.Gilang Mulya Putra, seorang Mahasiswa informatika dengan ketertarikan besar pada pengembangan web, kecerdasan buatan, dan solusi berbasis cloud. Saya bercita-cita menjadi seorang programmer yang handal.
 
 ****![Profil](https://static.fanpage.it/wp-content/uploads/sites/27/2020/04/cristiano-ronaldo-real-madrid.jpg)****
 
@@ -10,11 +10,6 @@ Halo! Nama saya [Nama Anda], seorang pengembang perangkat lunak dengan ketertari
 - **GitHub**: [Gilang Mulya](https://github.com/GilangMulya)
 - **Instagram**: [GilangMulya.p](https://www.instagram.com/gilangmulya.p/?hl=en)
 ---
-## Penggunaan Bahasa Pemrograman 📊
-
-Berikut adalah persentase penggunaan bahasa pemrograman yang sering saya gunakan:
-
-![Bahasa Pemrograman](path-to-your-pie-chart-image.png)
 
 # Kesimpulan Tugas Jobsheet
 
