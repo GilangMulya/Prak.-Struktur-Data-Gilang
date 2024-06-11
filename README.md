@@ -27,7 +27,10 @@ Sebuah struktur data adalah cara penyimpanan, penyusunan dan pengaturan data di 
 **Kesimpulan**: Struktur data seperti pointer, struct, array, linked list, double linked list, dan circular linked list adalah dasar dari pengelolaan data yang efisien dalam pemrograman. Pointer memungkinkan manipulasi memori langsung, struct mengelompokkan data kompleks, dan array menyimpan data berurut. Linked list dan variannya menyediakan metode penyimpanan yang fleksibel untuk data yang dinamis. Pemahaman mendalam tentang struktur-struktur ini sangat penting bagi setiap pengembang perangkat lunak untuk mengembangkan aplikasi yang efektif dan efisien.
 
 ## Jobsheet 2: Array, Pointer, Structure
-**Tujuan**: Memahami dasar-dasar Git dan cara menggunakan GitHub untuk versi kontrol.
+**Tujuan**: 1. Mahasiswa mampu menjelaskan konsep array, pointer, structure dan ADT dalam 
+pemrograman.
+2. Mahasiswa mampu mengimplementasikan dan memanipulasi data array, pointer, 
+structure dan ADT dalam pemrograman.
 
 **Topik Perkuliahan**:
 Array adalah suatu kumpulan nilai yang bertipe data sama. Masing-masing elemen array diakses menggunakan indeks, dan elemen aarray dapat diakses langsung (acak); Pointer adalah variable yang berisi alamat memory sebagai nilainya dan berbeda dengan variable biasa yang berisi nilai tertentu; dan, Struct adalah kumpulan variable (berisi variable yang memiliki tipe-tipe yang berbeda) bernaung dalam satu nama objek yang serumpun.
