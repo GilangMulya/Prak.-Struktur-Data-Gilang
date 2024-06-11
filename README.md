@@ -6,10 +6,8 @@ Halo! Nama saya [Nama Anda], seorang pengembang perangkat lunak dengan ketertari
 ![Profil](https://your-profile-image-url.com)
 
 ## Kontak 📬
-- **Email**: example@example.com
-- **LinkedIn**: [Profil LinkedIn](https://www.linkedin.com/in/username/)
-- **Twitter**: [@username](https://twitter.com/username)
-- **GitHub**: [username](https://github.com/username)
+- **Email**: mgilangmulyaputra04@gmail.com
+- **GitHub**: [Gilang Mulya](https://github.com/Gilang Mulya)
 
 ---
 
