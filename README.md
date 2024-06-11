@@ -13,7 +13,7 @@ Halo! Nama saya [Nama Anda], seorang pengembang perangkat lunak dengan ketertari
 
 # Kesimpulan Tugas Jobsheet
 
-## Jobsheet 1: Pengenalan Struktur Data ⚙️
+## Jobsheet 1: Pengenalan Struktur Data 
 **Tujuan**: 
 1. Mahasiswa memahami konsep data/variable, tipe data, struktur data
 2. Mahasiswa mampu menerapkan melakukan penyimpanan data dengan 
@@ -26,15 +26,13 @@ Sebuah struktur data adalah cara penyimpanan, penyusunan dan pengaturan data di 
 
 **Kesimpulan**: Struktur data seperti pointer, struct, array, linked list, double linked list, dan circular linked list adalah dasar dari pengelolaan data yang efisien dalam pemrograman. Pointer memungkinkan manipulasi memori langsung, struct mengelompokkan data kompleks, dan array menyimpan data berurut. Linked list dan variannya menyediakan metode penyimpanan yang fleksibel untuk data yang dinamis. Pemahaman mendalam tentang struktur-struktur ini sangat penting bagi setiap pengembang perangkat lunak untuk mengembangkan aplikasi yang efektif dan efisien.
 
-## Jobsheet 2: Pengenalan Git dan GitHub 🗂️
+## Jobsheet 2: Array, Pointer, Structure
 **Tujuan**: Memahami dasar-dasar Git dan cara menggunakan GitHub untuk versi kontrol.
 
-**Langkah-langkah**:
-1. Inisialisasi repository.
-2. Menambahkan dan meng-commit perubahan.
-3. Push ke repository GitHub.
+**Topik Perkuliahan**:
+Array adalah suatu kumpulan nilai yang bertipe data sama. Masing-masing elemen array diakses menggunakan indeks, dan elemen aarray dapat diakses langsung (acak); Pointer adalah variable yang berisi alamat memory sebagai nilainya dan berbeda dengan variable biasa yang berisi nilai tertentu; dan, Struct adalah kumpulan variable (berisi variable yang memiliki tipe-tipe yang berbeda) bernaung dalam satu nama objek yang serumpun.
 
-**Kesimpulan**: Git dan GitHub adalah alat esensial untuk versi kontrol dan kolaborasi dalam proyek perangkat lunak.
+**Kesimpulan**: Pada tugas ini, kita telah mempelajari cara menggunakan array, pointer, dan structure dalam pemrograman C. Array digunakan untuk menyimpan kumpulan data yang berurutan. Pointer memungkinkan kita untuk mengakses dan memanipulasi memori secara langsung. Structure memungkinkan kita untuk mengelompokkan berbagai tipe data yang berbeda ke dalam satu unit yang dapat kita manipulasi dengan mudah. Kombinasi dari ketiga konsep ini sangat penting dalam pengelolaan data yang efisien dan terstruktur dalam pemrograman.
 
 ## Jobsheet 3: Dasar Pemrograman Python 🐍
 **Tujuan**: Memahami sintaks dasar dan struktur kontrol dalam Python.
