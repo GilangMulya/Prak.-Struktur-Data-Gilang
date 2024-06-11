@@ -13,15 +13,18 @@ Halo! Nama saya [Nama Anda], seorang pengembang perangkat lunak dengan ketertari
 
 # Kesimpulan Tugas Jobsheet
 
-## Jobsheet 1: Setup Lingkungan Pengembangan ⚙️
-**Tujuan**: Menyiapkan lingkungan pengembangan untuk memastikan semua tools dan dependencies terinstal dengan benar.
+## Jobsheet 1: Pengenalan Struktur Data ⚙️
+**Tujuan**: 
+1. Mahasiswa memahami konsep data/variable, tipe data, struktur data
+2. Mahasiswa mampu menerapkan melakukan penyimpanan data dengan 
+menggunakan tipe data tunggal dan majemuk 
+3. Mahasiswa mampu memberikan contoh implementasi penyimpanan data 
+menggunakan struktur data.
 
-**Langkah-langkah**:
-1. Instalasi Python dan virtual environment.
-2. Konfigurasi IDE/Editor.
-3. Verifikasi instalasi dengan menjalankan script sederhana.
+**Topik Perkuliahan**:
+Sebuah struktur data adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien.Sedangkan Data adalah representasi dari fakta dunia nyata. Fakta atau keterangan tentang kenyataan yang disimpan, direkam atau direpresentasikan dalam bentuk tulisan, suara, gambar, sinyal atau simbol.
 
-**Kesimpulan**: Lingkungan pengembangan yang siap memastikan efisiensi dan konsistensi dalam pengembangan proyek.
+**Kesimpulan**: Struktur data seperti pointer, struct, array, linked list, double linked list, dan circular linked list adalah dasar dari pengelolaan data yang efisien dalam pemrograman. Pointer memungkinkan manipulasi memori langsung, struct mengelompokkan data kompleks, dan array menyimpan data berurut. Linked list dan variannya menyediakan metode penyimpanan yang fleksibel untuk data yang dinamis. Pemahaman mendalam tentang struktur-struktur ini sangat penting bagi setiap pengembang perangkat lunak untuk mengembangkan aplikasi yang efektif dan efisien.
 
 ## Jobsheet 2: Pengenalan Git dan GitHub 🗂️
 **Tujuan**: Memahami dasar-dasar Git dan cara menggunakan GitHub untuk versi kontrol.
@@ -145,4 +148,4 @@ Halo! Nama saya [Nama Anda], seorang pengembang perangkat lunak dengan ketertari
 
 ---
 
-Dibuat dengan ❤️ oleh [Nama Anda](https://github.com/username).
+Dibuat dengan ❤️ oleh [M.Gilang Mulya Putra](https://github.com/GilangMulya).
