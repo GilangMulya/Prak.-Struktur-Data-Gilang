@@ -8,7 +8,7 @@ Halo! Nama saya [Nama Anda], seorang pengembang perangkat lunak dengan ketertari
 ## Kontak 📬
 - **Email**: mgilangmulyaputra04@gmail.com
 - **GitHub**: [Gilang Mulya](https://github.com/GilangMulya)
-
+- **Instagram**: [GilangMulya.p](https://www.instagram.com/gilangmulya.p/?hl=en)
 ---
 
 # Kesimpulan Tugas Jobsheet
