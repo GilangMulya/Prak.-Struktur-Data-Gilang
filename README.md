@@ -10,6 +10,11 @@ Halo! Nama saya [Nama Anda], seorang pengembang perangkat lunak dengan ketertari
 - **GitHub**: [Gilang Mulya](https://github.com/GilangMulya)
 - **Instagram**: [GilangMulya.p](https://www.instagram.com/gilangmulya.p/?hl=en)
 ---
+## Penggunaan Bahasa Pemrograman 📊
+
+Berikut adalah persentase penggunaan bahasa pemrograman yang sering saya gunakan:
+
+![Bahasa Pemrograman](path-to-your-pie-chart-image.png)
 
 # Kesimpulan Tugas Jobsheet
 
