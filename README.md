@@ -1,7 +1,10 @@
 # Prak.-Struktur-Data-Gilang
 # Tentang Saya 👨‍💻
 
-Halo! Nama saya M.Gilang Mulya Putra, seorang Mahasiswa informatika dengan ketertarikan besar pada pengembangan web, kecerdasan buatan, dan solusi berbasis cloud. Saya bercita-cita menjadi seorang programmer yang handal.
+Halo! 
+Nama saya M.Gilang Mulya Putra, 
+NIM 233430, 
+seorang Mahasiswa informatika dengan ketertarikan besar pada pengembangan web, kecerdasan buatan, dan solusi berbasis cloud. Saya bercita-cita menjadi seorang programmer yang handal.
 
 ****![Profil](https://static.fanpage.it/wp-content/uploads/sites/27/2020/04/cristiano-ronaldo-real-madrid.jpg)****
 
