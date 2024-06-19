@@ -3,7 +3,7 @@
 
 Halo! 
 Nama saya M.Gilang Mulya Putra, 
-NIM 233430, 
+NIM 23343073, 
 seorang Mahasiswa informatika dengan ketertarikan besar pada pengembangan web, kecerdasan buatan, dan solusi berbasis cloud. Saya bercita-cita menjadi seorang programmer yang handal.
 
 ****![Profil](https://static.fanpage.it/wp-content/uploads/sites/27/2020/04/cristiano-ronaldo-real-madrid.jpg)****
