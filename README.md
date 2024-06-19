@@ -117,7 +117,8 @@ Bubble sort (metode gelembung) adalah metode/algoritma pengurutan dengan dengan 
 Tugas ini bertujuan untuk memberikan pemahaman mendalam tentang algoritma pengurutan sederhana, yaitu Bubble Sort dan Insertion Sort, dengan mencari contoh aplikasi nyata yang mengimplementasikan kedua metode tersebut. Selain itu, tugas ini juga mengajarkan bagaimana aplikasi-aplikasi ini bekerja sesuai dengan prinsip dasar kedua algoritma pengurutan tersebut.
 
 ## Jobsheet 9: Selection and Merge Sort
-**Tujuan**: 1. Mahasiswa memahami konsep pengurutan Selection dan Merge dalam pemrograman C.
+**Tujuan**: 
+1. Mahasiswa memahami konsep pengurutan Selection dan Merge dalam pemrograman C.
 2. Mahasiswa memahami operasi yang ada dalam pencarian pengurutan Selection dan Merge.
 3. Mahasiswa mampu mengimplementasikan pencarian struktur data pengurutan Selection dan Merge
 menggunakan pemrograman C dengan IDE.
